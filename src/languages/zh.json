@@ -64,12 +64,12 @@
       "all": "全部"
     },
     "links": {
-      "title": "友情链接"
+      "title": "Awesome Links"
     },
     "moments": {
       "title": "日志",
       "loadmore": "加载更多...",
-      "empty": "博主太懒了，这里还什么都没有呢！！！",
+      "empty": "时隐太懒了，这里什么都没有。",
       "time": " {{ time, datetimeFormat }}"
     },
     "search": {
@@ -84,8 +84,8 @@
     },
     "none": {
       "title": "没有找到任何东西！",
-      "search": "没有找到你想要的，看看其他的吧。",
-      "notfound": "我们似乎没有找到你想要的东西. 或许你可以搜索一下试试。"
+      "search": "没有找到你想要的，看看别的吧。",
+      "notfound": "似乎没有找到你想要的东西"
     },
     "author": {
       "title": "关于作者: {{ authorName }}"
@@ -97,15 +97,15 @@
   },
   "notfound": {
     "title": "页面不存在 - {{ title }}",
-    "golast": "返回上一页",
+    "golast": "返回上页",
     "gohome": "返回主页",
-    "search": "别急，试试站内搜索？",
-    "search_2": "Don't worry, search in site?",
+    "search": "试试搜索？",
+    "search_2": "Search in site?",
     "searchinput": "Search..."
   },
   "user": {
     "description": "我喜欢做的事就是不写个性签名",
-    "login": "登录",
+    "login": "事务所",
     "has_logged": "当前已登录",
     "info": "个人资料",
     "logout": "退出登录"
@@ -142,7 +142,7 @@
     "linkedin": "分享至领英"
   },
   "theme": {
-    "change_button_text": "切换主题 | SCHEME TOOL"
+    "change_button_text": "风格"
   },
   "common": {
     "days": "{{ count }} 天",
